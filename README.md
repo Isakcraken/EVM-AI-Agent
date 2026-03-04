@@ -72,4 +72,4 @@ This repo includes only Frontend part due to the security concerns.
 If you have any questions or want the whole product including Backend part, please feel free to contact us to below contacts.
 
 - E-Mail: admin@hyperbuildx.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- Telegram: [@hyperbuildx](https://t.me/hyperbuildx)
